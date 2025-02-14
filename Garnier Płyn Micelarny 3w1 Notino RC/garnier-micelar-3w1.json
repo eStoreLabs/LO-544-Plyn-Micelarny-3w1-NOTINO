@@ -1,0 +1,662 @@
+{
+    "keys": [
+        "garnier/skin-naturals-woda-micelarna-dla-cery-wrazliwej/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Garnier Płyn Micelarny",
+    "rpc": "GAR06819",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Garnier Płyn Micelarny",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Płyn micelarny 3 w 1",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Płyn micelarny 3 w 1",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-02.jpg",
+                                "element": "img",
+                                "alt": "Nr 1 w Polsce. Usuwa do 100% makijażu, bez pozostałości",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-02-mobile.jpg",
+                                "element": "img",
+                                "alt": "Nr 1 w Polsce. Usuwa do 100% makijażu, bez pozostałości",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "ODKRYJ MOC PŁYNU MICELARNEGO GARNIER",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "bold",
+                                    "color": "#f089b4",
+                                    "fontStyle": "italic",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "height": "0"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-03-A.jpg",
+                                "element": "img",
+                                "alt": "usuwa makijaż",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-03-B.jpg",
+                                "element": "img",
+                                "alt": "oczyszcza",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "height": "0",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-03-C.jpg",
+                                "element": "img",
+                                "alt": "koi",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding":"0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "technologia miceli",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "bold",
+                                    "fontStyle": "italic",
+                                    "color": "#f089b4",
+                                    "marginBottom": "40px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Micele działają niczym magnes przyciągając makijaż oraz zanieczyszczenia gromadzące się w ciągu dnia. Bez pocierania!",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "lineHeight": "1.5"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-05.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-04-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "sposób użycia",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "bold",
+                                    "color": "#f089b4",
+                                    "fontStyle": "italic",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "h2",
+                                "properties": {
+                                    "height": "0"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Krok 1",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Nałóż płyn na płatek kosmetyczny.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-06-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Krok 2",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Przesuń płatkiem po powierzchni skóry. Nie musisz mocno pocierać! ",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-06-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Krok 3",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Ciesz się czystą, nawilżoną i ukojoną cerą.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-06-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding":"0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "płyny micelarne eko-odpowiedzialne!",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "bold",
+                                    "fontStyle": "italic",
+                                    "color": "#f089b4",
+                                    "width": "80%",
+                                    "marginBottom": "40px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Butelka wykonana w 100% z plastiku z recyklingu i odpowiednia do recyklingu!(4). Wegańska formuła (nie posiada składników pochodzenia zwierzęcego i ich pochodnych). Marka Garnier została oficjalnie zatwierdzona przez Cruelty Free International w ramach programu Leaping Bunny.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "lineHeight": "1.5"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-07.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-08.jpg",
+                                "element": "img",
+                                "alt": "Wybierz swój płyn micelarny od Garnier",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-08-mobile.jpg",
+                                "element": "img",
+                                "alt": "Wybierz swój płyn micelarny od Garnier",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(1)Źródło: L’Oreal za NielsenIQ - Płyny micelarne Garnier osiągnęły najwyższą sprzedaż wartościową wśród płynów micelarnych do skóry wrażliwej, Panel Handlu Detalicznego, rynek: Cała Polska z Dyskontami (Drug), sprzedaż w PLN, okres III 2020 - II 2021, kategoria: Pielęgnacja twarzy.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(2)Perfekcyjny demakijaż twarzy. Test samooceny, 50 kobiet, 4 tygodnie stosowania.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(3)Test konsumencki na 114 ochotnikach: 81,6% potwierdza brak widocznych pozostałości produktu.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneText",
+                                "value": "(4)Z wyjątkiem etykiety, nakrętki i barwników.",
+                                "element": "p",
+                                "properties": {
+                                    "textAlign": "center",
+                                    "fontFamily": "Roboto",
+                                    "fontSize": "13px",
+                                    "color": "#111111"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "-15px",
+                            "padding": "0 15px",
+                            "lineHeight": "1"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
